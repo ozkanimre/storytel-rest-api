@@ -16,8 +16,8 @@
    
 3. Create your environment variables
    
-  PORT=3000 <br/>
-  MONGODB_URL=your url <br/>
-  JWT_SECRET_KEY=yoursecretkey <br/>
+  PORT=3000 
+  MONGODB_URL=your url 
+  JWT_SECRET_KEY=yoursecretkey 
   
 
