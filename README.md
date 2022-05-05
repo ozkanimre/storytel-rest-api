@@ -16,6 +16,11 @@
    
 3. Create your environment variables
    
-   PORT , MONGODB_URL , JWT_SECRET_KEY 
+   PORT , MONGODB_URL , JWT_SECRET_KEY ,SENDER_EMAIL , SENDER_EMAIL_PASSWORD
+
+### Last Update
+   Send a welcome email when a user is registered and a cancelation email when account is deleted.
+
+
   
 
